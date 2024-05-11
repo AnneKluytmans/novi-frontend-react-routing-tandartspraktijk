@@ -1,4 +1,3 @@
-import React from 'react';
 import Header from '../../components/header/Header';
 import bleken from '../../assets/tooth-whitening.svg';
 import './Whitening.css';
