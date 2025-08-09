@@ -55,7 +55,7 @@ The app demonstrates how to set up routes, use navigation links with active styl
 
 </details>
 
-![Dentist De Tandenborstel demo](src/assets/demo-routing.gif)
+![Dentist De Tandenborstel demo](src/assets/demo-dentist-routing.gif)
 
 > A dental practice website with multiple pages navigated using React Router Dom, including dynamic active menu styling and programmatic navigation.
 
