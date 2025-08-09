@@ -15,25 +15,15 @@ function Cavities() {
         <main className="page-container">
           <Header icon={gaatjes} title="Gaatjes" />
           <p>
-            Consectetur adipisicing elit. Consequuntur doloremque esse fuga illum, impedit necessitatibus non officiis sapiente tempora velit.
-            Amet consequuntur deleniti distinctio ea eveniet id, labore magni neque obcaecati praesentium quibusdam quidem, quod, repellat sequi ut.
-            Blanditiis, reiciendis.
+              Gaatjes, ook wel cariës genoemd, zijn een van de meest voorkomende tandproblemen. Ze ontstaan wanneer bacteriën in tandplak suikers omzetten in zuren, die vervolgens het tandglazuur aantasten. Zonder behandeling kunnen gaatjes groter worden en leiden tot pijn, ontstekingen of zelfs verlies van tanden.
+              Bij Tandartspraktijk De Tandenborstel vullen wij gaatjes met moderne, duurzame materialen die passen bij de kleur van uw tanden. Zo blijft uw gebit mooi én gezond. Wilt u een afspraak maken voor controle of behandeling?
           </p>
           <button type="button" onClick={handleClick} className="appointment-button">
             Maak direct uw afspraak!
           </button>
           <p className="content-container-col3">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi corporis cumque exercitationem minus optio, perferendis quos sunt.
-            Accusamus ad aliquid autem consequatur, eos ex excepturi illum impedit maiores molestias nam quod rem, voluptatibus. Mollitia, quidem voluptas?
-            Consectetur dolorem dolorum exercitationem iure magni molestias quaerat quas reprehenderit sit voluptates? Adipisci eius eveniet quas ullam!
-            Atque autem deserunt esse et fuga laudantium nostrum omnis repudiandae voluptates voluptatibus. At, corporis cupiditate dolor eligendi eos
-            exercitationem harum impedit maxime molestias neque perferendis praesentium, provident reprehenderit sapiente sequi voluptates voluptatum?
-            Debitis odio perferendis repellendus ullam vel? At beatae dolore dolorem nihil sed. Blanditiis consequatur consequuntur distinctio eum harum hic,
-            illo inventore mollitia nostrum quos repellendus sint vel voluptate. A ad animi doloremque doloribus ea enim et ipsam iure laboriosam libero natus,
-            neque nihil pariatur possimus quam quas quibusdam quidem quis quisquam tempore ut veritatis vitae. At autem blanditiis cum, dignissimos dolore
-            facere illo quis ullam vero. Cum deleniti dolorum earum et, explicabo facilis hic illo minima nisi obcaecati odio omnis porro rerum vel velit.
-            Autem cum delectus deserunt exercitationem, fugiat illum iste iusto natus nobis nostrum perferendis provident qui quos recusandae sapiente tempora
-            tempore unde, voluptas. Ab, deserunt est fugiat fugit ipsam saepe sint ullam?
+              Gaatjes ontstaan wanneer tandplak bacteriën suikers omzetten in zuren die het tandglazuur aantasten. In het begin merkt u daar vaak niets van, maar zonder behandeling kan een gaatje leiden tot pijn, gevoeligheid en uiteindelijk tandverlies.
+              In de beginfase merkt u vaak niets van een gaatje. Daarom is het belangrijk om regelmatig een controle-afspraak te maken bij uw tandarts. Hoe eerder we een gaatje ontdekken, hoe kleiner de ingreep en hoe beter het resultaat.
           </p>
         </main>
       );

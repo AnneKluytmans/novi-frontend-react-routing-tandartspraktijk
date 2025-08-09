@@ -8,19 +8,11 @@ function Home() {
     <main className="page-container">
       <Header icon={logo} title="Tandartspraktijk de Tandenborstel" />
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut debitis doloribus
-        facilis iste placeat praesentium sint voluptatem. Architecto at, maiores?
+          Welkom bij Tandartspraktijk De Tandenborstel – uw vertrouwde adres voor een stralende glimlach en gezonde tanden.
       </p>
       <p className="content-container-col2">
-        Consectetur adipisicing elit. Blanditiis cum, dolor ea enim fugiat fugit id inventore ipsam libero magni modi natus
-        necessitatibus nisi optio quas qui quis quo, reprehenderit saepe similique sint sit soluta ut veritatis voluptatem.
-        Ab aliquid amet animi aperiam assumenda, atque autem dolorum ducimus et excepturi ipsa magnam nemo nulla possimus provident,
-        quos ratione repellendus sed sequi tempore! Accusantium amet commodi deleniti exercitationem impedit obcaecati quis repudiandae!
-        Consectetur eligendi ipsam odio repellendus sequi veniam voluptas? Adipisci at consectetur eaque fuga hic inventore ipsa magnam
-        provident vitae. Ad animi commodi consectetur, corporis dicta doloremque dolorum error hic inventore iste laudantium libero magnam
-        mollitia necessitatibus nemo nesciunt nihil non obcaecati odio odit pariatur quae quaerat quas quisquam quos rem sapiente sequi
-        similique sint vero? Accusamus aliquam aliquid blanditiis consequatur est et minima mollitia neque non, odit perspiciatis placeat
-        provident quos, similique sit totam vero. Beatae consequatur cupiditate rerum?
+          Ons team van ervaren tandartsen en mondhygiënisten staat klaar om u en uw gezin te helpen met de beste mondzorg. Op deze website vindt u informatie over onze behandelingen, hoe u eenvoudig een afspraak kunt maken en tips om uw gebit in topconditie te houden.
+          Wij geloven in persoonlijke aandacht, een ontspannen sfeer en duidelijke uitleg over elke behandeling. Zo weet u altijd waar u aan toe bent. Leer hier meer over gaatjes en hoe u ze kunt voorkomen!
       </p>
         <p>Leer <Link to={"/tanden-bleken"}>hier</Link> meer over het bleken van tanden</p>
     </main>

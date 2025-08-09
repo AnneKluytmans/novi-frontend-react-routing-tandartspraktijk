@@ -7,30 +7,16 @@ function Whitening() {
     <main className="page-container">
       <Header icon={bleken} title="Bleken"/>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut debitis doloribus facilis iste placeat praesentium
-        sint voluptatem.
-        Architecto at, maiores?
+          Een witte glimlach geeft zelfvertrouwen en laat u stralen. Met onze professionele bleekbehandelingen bereiken we op een veilige manier het gewenste resultaat. We gebruiken enkel methodes die goedgekeurd zijn door tandheelkundige organisaties, zodat uw gebit gezond blijft.
       </p>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut debitis doloribus facilis iste placeat praesentium
-        sint voluptatem.
-        Architecto at, maiores?
+          Iedere mond is uniek, daarom starten wij altijd met een intake. Samen bespreken we uw wensen, bekijken we de huidige kleur van uw tanden en bepalen we welke behandeling het beste bij u past. Zo krijgt u een persoonlijk plan en weet u precies wat u kunt verwachten.
       </p>
       <p>
-        Aliquid asperiores autem labore neque nobis quibusdam reiciendis soluta totam veniam voluptates? Debitis
-        delectus enim labore
-        necessitatibus saepe! Aperiam, cum debitis doloremque ipsam iure non odio quo quod repellendus sit soluta
-        tempora totam?
-        Alias dicta dolore eaque error quibusdam reiciendis vitae voluptas.
+          Onze behandelingen zorgen voor een zichtbaar verschil na slechts één sessie. Afhankelijk van uw wensen en het startpunt kan het resultaat variëren van een subtiele opfrissing tot een duidelijk wittere glimlach. Met de juiste mondverzorging blijft het effect langdurig zichtbaar.
       </p>
       <p>
-        Cupiditate maxime praesentium ratione recusandae soluta. Aspernatur expedita natus perferendis quos unde vero
-        voluptatum.
-        Aperiam architecto blanditiis dolore eaque eius fugit ipsa minima nam neque, nostrum odio praesentium, quibusdam
-        rem repellat
-        repudiandae rerum temporibus unde vel. Accusantium animi dignissimos dolores ducimus eos est hic magni,
-        molestias officiis quibusdam?
-        Eos perferendis voluptate voluptates.
+          Tanden bleken is geschikt voor de meeste volwassenen met gezonde tanden en tandvlees. Heeft u vullingen of kronen? Dan bespreken we hoe we het kleurverschil kunnen minimaliseren. Uw veiligheid en tevredenheid staan altijd voorop bij Tandartspraktijk De Tandenborstel.
       </p>
     </main>
   );
